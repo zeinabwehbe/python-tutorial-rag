@@ -1,0 +1,38 @@
+# Core
+langchain>=0.3.0
+langchain-community>=0.3.0
+langchain-openai>=0.2.0
+langchain-chroma>=0.2.0
+openai>=1.0.0
+chromadb>=0.5.0
+tiktoken>=0.7.0
+
+# HTML parsing
+beautifulsoup4>=4.12.0
+lxml>=5.0.0
+
+# Sentence-aware chunking
+nltk>=3.9.0
+
+# Local embeddings (HuggingFace)
+sentence-transformers>=2.7.0
+
+# Local LLM (HuggingFace transformers)
+transformers>=4.40.0
+torch>=2.0.0
+accelerate>=0.28.0
+
+# HTTP client for Deepseek API
+requests>=2.31.0
+
+# Config
+python-dotenv>=1.0.0
+
+# CLI output
+rich>=13.0.0
+
+# Web UI
+streamlit>=1.38.0
+
+# CLI output
+rich>=13.0.0
