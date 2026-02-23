@@ -48,7 +48,7 @@ A **Retrieval-Augmented Generation (RAG)** system built with LangChain that answ
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/python-tutorial-rag.git
+   git clone https://github.com/zeinabwehbe/python-tutorial-rag.git
    cd python-tutorial-rag
    ```
 
