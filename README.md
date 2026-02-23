@@ -231,5 +231,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Retrieval**: Top-5 MMR search for optimal relevance/diversity
 
 ---
-
-**Built with ❤️ for Python learners everywhere!**
