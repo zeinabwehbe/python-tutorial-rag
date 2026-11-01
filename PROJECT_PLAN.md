@@ -3,8 +3,6 @@
 ## 📌 Project Overview
 
 Build a **Retrieval-Augmented Generation (RAG)** system that allows users to ask natural-language questions about the **Python 3.14 Tutorial** and receive accurate, context-grounded answers sourced from the local documentation.
-### note about installing on the virtual environment
-cd "c:\Users\Zayna\OneDrive\Desktop\RAG System"; .\.venv\Scripts\Activate.ps1; pip install -r requirements.txt
 
 ### Source Documents
 
